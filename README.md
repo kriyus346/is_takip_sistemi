@@ -26,7 +26,8 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş basit bir **iş takip 
 ![image](https://github.com/user-attachments/assets/7615dee7-7dc9-44eb-9e60-98eedba9404c)
 
 Sonra yine Microsoft store üzerinden istediğiniz python 3.x indiriyoruz
-![image](https://github.com/user-attachments/assets/db55f113-3101-4bc7-bf00-f146ae0d465e)
+![image](https://github.com/user-attachments/assets/f89726de-ec44-4fd1-912c-68fbb0cbe017)
+
 
 enson is_takip_sistemi.py kodunu indirip visual studio code içine atıp sağ tık yaptıktan sonra mavi ile görünen kısma tıklıyoruz ve kod çalışıyor
 
